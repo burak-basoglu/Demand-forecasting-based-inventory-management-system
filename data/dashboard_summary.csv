@@ -1,6 +1,6 @@
 ProductId,RemainingStock,NextMonthForecast,BestModel,Status,CategoryName,CategoryId
 265,1708.0,8.47,LSTM (Weekly),Aşırı Stok,Gıda,1.0
-178,0.0,4.41,LSTM (Quarterly),Stok Yok,Gıda,1.0
+178,3.0,4.41,LSTM (Quarterly),Stok Yetersiz,Gıda,1.0
 428,1010.0,6.32,LSTM (Monthly),Aşırı Stok,Gıda,1.0
 1121,192.0,4.55,GRU (Weekly),Aşırı Stok,Gıda,1.0
 859,0.0,5.67,LSTM (Quarterly),Stok Yok,Gıda,1.0
