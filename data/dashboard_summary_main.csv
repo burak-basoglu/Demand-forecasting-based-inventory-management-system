@@ -114,7 +114,7 @@ ProductId,RemainingStock,NextMonthForecast,BestModel,Status,CategoryName,Categor
 15901,1893.0,5.68,LSTM (Quarterly),Aşırı Stok,Oyuncak & Hobi,12.0
 15301,665.0,6.9,GRU (Monthly),Aşırı Stok,Oyuncak & Hobi,12.0
 15718,811.0,6.14,LSTM (Quarterly),Aşırı Stok,Oyuncak & Hobi,12.0
-15337,5.0,6.07,GRU (Monthly),Stok Yetersiz,Oyuncak & Hobi,12.0
+15337,0.0,6.07,GRU (Monthly),Stok Yok,Oyuncak & Hobi,12.0
 15745,1276.0,7.67,GRU (Quarterly),Aşırı Stok,Oyuncak & Hobi,12.0
 15336,0.0,5.26,LSTM (Weekly),Stok Yok,Oyuncak & Hobi,12.0
 16577,0.0,7.92,GRU (Weekly),Stok Yok,Oyuncak & Hobi,12.0
@@ -124,7 +124,7 @@ ProductId,RemainingStock,NextMonthForecast,BestModel,Status,CategoryName,Categor
 17137,1662.0,6.23,LSTM (Monthly),Aşırı Stok,Bahçe & Dış Mekan,13.0
 16822,340.0,7.84,GRU (Monthly),Aşırı Stok,Bahçe & Dış Mekan,13.0
 17151,0.0,4.33,LSTM (Quarterly),Stok Yok,Bahçe & Dış Mekan,13.0
-17511,2.0,6.96,GRU (Monthly),Stok Yetersiz,Bahçe & Dış Mekan,13.0
+17511,0.0,6.96,GRU (Monthly),Stok Yok,Bahçe & Dış Mekan,13.0
 17763,0.0,6.32,LSTM (Weekly),Stok Yok,Bahçe & Dış Mekan,13.0
 16992,323.0,6.48,LSTM (Monthly),Aşırı Stok,Bahçe & Dış Mekan,13.0
 17759,1487.0,6.5,GRU (Weekly),Aşırı Stok,Bahçe & Dış Mekan,13.0
