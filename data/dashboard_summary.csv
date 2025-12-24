@@ -8,7 +8,7 @@ ProductId,RemainingStock,NextMonthForecast,BestModel,Status,CategoryName,Categor
 664,0.0,7.76,GRU (Weekly),Stok Yok,Gıda,1.0
 1275,1447.0,7.84,GRU (Quarterly),Aşırı Stok,Gıda,1.0
 881,46.0,6.94,GRU (Monthly),Aşırı Stok,Gıda,1.0
-393,0.0,6.31,LSTM (Quarterly),Stok Yok,Gıda,1.0
+393,3.0,6.31,LSTM (Quarterly),Stok Yetersiz,Gıda,1.0
 1979,235.0,5.86,LSTM (Weekly),Aşırı Stok,İçecek,2.0
 2647,396.0,7.07,LSTM (Weekly),Aşırı Stok,İçecek,2.0
 1826,0.0,6.42,GRU (Quarterly),Stok Yok,İçecek,2.0
@@ -21,7 +21,7 @@ ProductId,RemainingStock,NextMonthForecast,BestModel,Status,CategoryName,Categor
 2587,0.0,7.12,GRU (Monthly),Stok Yok,İçecek,2.0
 3516,1022.0,5.68,LSTM (Weekly),Aşırı Stok,Elektronik,3.0
 3733,98.0,6.63,LSTM (Weekly),Aşırı Stok,Elektronik,3.0
-2926,0.0,7.44,LSTM (Weekly),Stok Yok,Elektronik,3.0
+2926,6.0,7.44,LSTM (Weekly),Stok Yetersiz,Elektronik,3.0
 4025,116.0,5.09,LSTM (Monthly),Aşırı Stok,Elektronik,3.0
 4066,1492.0,6.66,GRU (Monthly),Aşırı Stok,Elektronik,3.0
 2776,1121.0,4.22,LSTM (Weekly),Aşırı Stok,Elektronik,3.0
@@ -48,7 +48,7 @@ ProductId,RemainingStock,NextMonthForecast,BestModel,Status,CategoryName,Categor
 6780,508.0,6.65,GRU (Monthly),Aşırı Stok,Mobilya & Dekorasyon,5.0
 5642,703.0,7.4,GRU (Monthly),Aşırı Stok,Mobilya & Dekorasyon,5.0
 6033,1756.0,5.35,GRU (Quarterly),Aşırı Stok,Mobilya & Dekorasyon,5.0
-5920,0.0,5.77,GRU (Quarterly),Stok Yok,Mobilya & Dekorasyon,5.0
+5920,3.0,5.77,GRU (Quarterly),Stok Yetersiz,Mobilya & Dekorasyon,5.0
 7223,0.0,8.8,GRU (Quarterly),Stok Yok,Kişisel Bakım & Kozmetik,6.0
 7467,1240.0,6.59,LSTM (Quarterly),Aşırı Stok,Kişisel Bakım & Kozmetik,6.0
 7686,820.0,11.15,GRU (Weekly),Aşırı Stok,Kişisel Bakım & Kozmetik,6.0
@@ -71,7 +71,7 @@ ProductId,RemainingStock,NextMonthForecast,BestModel,Status,CategoryName,Categor
 8358,14.0,6.37,LSTM (Weekly),Stok Yeterli,Otomotiv & Araç Bakım,7.0
 10063,169.0,6.34,GRU (Weekly),Aşırı Stok,Kamp & Outdoor,8.0
 10869,1048.0,6.87,LSTM (Quarterly),Aşırı Stok,Kamp & Outdoor,8.0
-10862,0.0,7.01,LSTM (Monthly),Stok Yok,Kamp & Outdoor,8.0
+10862,4.0,7.01,LSTM (Monthly),Stok Yetersiz,Kamp & Outdoor,8.0
 10585,0.0,6.82,LSTM (Monthly),Stok Yok,Kamp & Outdoor,8.0
 10023,824.0,5.88,LSTM (Weekly),Aşırı Stok,Kamp & Outdoor,8.0
 10122,0.0,7.42,LSTM (Monthly),Stok Yok,Kamp & Outdoor,8.0
